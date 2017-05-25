@@ -1,0 +1,4 @@
+[submodule "nimble"]
+	path = _nimble
+	url = git@github.com:johnrom/nimble.git
+	branch = isolation

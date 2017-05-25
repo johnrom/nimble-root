@@ -1,0 +1,5 @@
+/docker-compose.yml
+/docker-common.yml
+
+# start projects
+sites/*
