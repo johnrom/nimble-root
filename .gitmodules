@@ -2,3 +2,7 @@
 	path = _nimble
 	url = git@github.com:johnrom/nimble.git
 	branch = isolation
+[submodule "_nimble"]
+	path = _nimble
+	url = .\\_nimble
+	branch = isolation
