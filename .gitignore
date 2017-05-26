@@ -1,6 +1,8 @@
 /docker-compose.yml
 /docker-common.yml
 
+_templates/*
+
 # start projects
 sites/*
 !sites/_front
