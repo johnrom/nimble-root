@@ -3,3 +3,4 @@
 
 # start projects
 sites/*
+!sites/_front
