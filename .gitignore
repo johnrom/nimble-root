@@ -1,6 +1,7 @@
 /docker-compose.yml
 /docker-common.yml
 
+_conf/certs/*
 _templates/*
 
 # start projects
